@@ -12,6 +12,7 @@
 		CE921B041F21AD410012D784 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE921B021F21AD410012D784 /* Main.storyboard */; };
 		CE921B061F21AD410012D784 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE921B051F21AD410012D784 /* Assets.xcassets */; };
 		CE921B091F21AD410012D784 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE921B071F21AD410012D784 /* LaunchScreen.storyboard */; };
+		CE921B111F21BA980012D784 /* trane.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CE921B101F21BA980012D784 /* trane.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CE921B051F21AD410012D784 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE921B081F21AD410012D784 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE921B0A1F21AD410012D784 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE921B101F21BA980012D784 /* trane.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trane.JPG; path = ../../../trane.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		CE921AFD1F21AD410012D784 /* Image Filter */ = {
 			isa = PBXGroup;
 			children = (
+				CE921B101F21BA980012D784 /* trane.JPG */,
 				CE921AFE1F21AD410012D784 /* AppDelegate.swift */,
 				CE921B001F21AD410012D784 /* ViewController.swift */,
 				CE921B021F21AD410012D784 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE921B091F21AD410012D784 /* LaunchScreen.storyboard in Resources */,
+				CE921B111F21BA980012D784 /* trane.JPG in Resources */,
 				CE921B061F21AD410012D784 /* Assets.xcassets in Resources */,
 				CE921B041F21AD410012D784 /* Main.storyboard in Resources */,
 			);
